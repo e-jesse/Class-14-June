@@ -1,0 +1,23 @@
+---
+title: "Class-14-June"
+author: "Jesse Ekwuruibe"
+format: html
+execute: 
+  echo: false
+---
+
+```{r}
+#| label: setup
+#| message: false
+
+library(tidyverse)
+```
+
+```{r}
+df <- read_csv("mass-tracts.csv", show_col_types = FALSE)
+```
+
+```{r}
+
+```
+
